@@ -186,7 +186,7 @@ The same structure that the verifier traverses is the same structure the LLM rea
 No dependencies. Python 3.6+.
 
 ```bash
-git clone https://github.com/[repo]
+git clone https://github.com/lichaode/prompt-that-execute
 
 # verify any .lisp file
 python interpreter.py examples/medical.lisp
